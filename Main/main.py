@@ -1,3 +1,4 @@
 print("hello!")
 
-print("Test branch")
+def soma():
+    print(2 + 2)
