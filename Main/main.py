@@ -1,4 +1,4 @@
 print("hello!")
 
 def soma():
-    print(2 + 2)
+    prin(1 + 2)
